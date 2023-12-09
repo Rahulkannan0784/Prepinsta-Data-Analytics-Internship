@@ -2,6 +2,8 @@
 
 Welcome to my Week 1 progress in the PrepInsta Data Analytics Internship! 🚀 In this repository, you'll find an overview of the tasks completed during the first week and the insights gained.
 
+![Dashboard Image](Dashboard.png)
+
 ## Tasks Completed
 
 1. **Bar Chart (Marital Status):**
@@ -49,6 +51,6 @@ Share any notable insights or patterns observed during the tasks. Mention how th
 Check out the interactive dashboard summarizing the Week 1 insights:
 [Week 1 Dashboard](https://docs.google.com/spreadsheets/d/15nEputPwtJWYORu2sp6BeF5a44zASP9B59nu6hZqvBg/edit?usp=sharing)
 
-![Dashboard Image](dashboard_image.png)
+
 
 .
