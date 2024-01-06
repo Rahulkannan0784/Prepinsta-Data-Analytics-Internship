@@ -18,7 +18,7 @@ You have been called to a crime scene at the SQL City Police Department. A homic
 
 - `sql_murder_mystery.sql`: This file contains a series of SQL queries that you will use to interrogate the database and solve the mystery.
 - `sql_murder_mystery.db`: This SQLite database file contains the data necessary to conduct your investigation.
-- `sql_murder_mystery.pdf`: This PDF document provides additional information and guidelines for the SQL Murder Mystery assignment. [Download PDF](link_to_your_pdf_file)
+- `sql_murder_mystery.pdf`: This PDF document provides additional information and guidelines for the SQL Murder Mystery assignment. 
 
 ## Instructions
 
