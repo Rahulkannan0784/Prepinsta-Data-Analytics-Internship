@@ -1,7 +1,7 @@
 
 # Data Visualization with Tableau
 
-[![Tableau Dashboard](path_to_your_image.png)](link_to_your_tableau_project)
+[![Tableau Dashboard](Dashboard.png)](https://public.tableau.com/app/profile/rahul.kannan.p/viz/AirQualityData_17057175967600/Dashboard1?publish=yes)
 
 ## Overview
 This repository contains the project files for my Week 7 project at the PrepInsta Winter Internship, where I worked on visualizing India's air quality data using Tableau.
